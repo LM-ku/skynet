@@ -1,0 +1,10 @@
+{
+  "description": "web dashboard for my smart greenhouse monitoring and control system",
+  "owner": {
+    "username": "LM-ku",
+    "email": "leonid.m.65@gmail.com"
+  },
+  "records": {
+    "A": ["48.102.244.193"]
+  }
+}
